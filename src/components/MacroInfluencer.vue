@@ -1,12 +1,12 @@
 <template>
   <section class="bg-white py-20">
     <div class="container mx-auto">
-      <div class="section-wrapper mx-20">
-        <h1 class="text-dark font-bold text-4xl mx-12 text-center">
+      <div class="section-wrapper mx-5 md:mx-20">
+        <h1 class="text-dark font-bold text-2xl md:text-4xl md:mx-12 text-center">
           <span class="text-primary"> But,</span> what is the difference between a Macro-Influencer
           and a Micro-Influencer?
         </h1>
-        <p class="text-center text-gray mt-8 mx-16">
+        <p class="text-center text-gray mt-8 md:mx-16">
           One of the most significant differences is the fact that many micro-influencers have much
           higher engagement rates than macro-influencers (this is why I always tell my clients NOT
           to look at the followers count). >

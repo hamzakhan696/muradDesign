@@ -1,10 +1,10 @@
 <template>
   <section class="bg-primary py-8">
     <div class="container mx-auto">
-      <h1 class="text-dark font-bold text-5xl text-center py-5">
+      <h1 class="text-dark font-bold text-2xl md:text-5xl text-center py-5">
         <span class="text-white">Micro</span> Influencers
       </h1>
-      <p class="text-center mx-24">
+      <p class="text-center mx-5 md:mx-24">
         Influencer marketing has been embraced as one of the most effective channels for driving a
         higher ROI. 80% of marketers find it effective and 71% of them say that it helps them drive
         high-quality traffic and customers.

@@ -1,8 +1,8 @@
 <template>
   <section class="bg-white py-20">
     <div class="container mx-auto">
-      <div class="section-wrapper mx-20">
-        <h1 class="text-dark font-bold text-4xl mx-24 text-center">
+      <div class="section-wrapper mx-5 md:mx-20">
+        <h1 class="text-dark font-bold text-2xl sm:text-3xl md:text-4xl md:mx-24 text-center">
           An ASPIRING INFLUENCER?
           <span class="text-primary"> Or a BRAND looking for the Ideal Influencer?</span>
         </h1>

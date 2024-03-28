@@ -2,7 +2,7 @@
   <section>
     <div class="container">
       <div class="wrapper text-center">
-        <h1 class="text-center font-bold text-5xl text-primary py-5 mt-12">
+        <h1 class="text-center font-bold text-2xl sm:text-3xl md:text-5xl text-primary py-5 mt-12">
           Interested? <span class="text-dark">Feel free to drop an email.</span>
         </h1>
         <RouterLink
