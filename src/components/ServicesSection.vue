@@ -15,7 +15,9 @@
               class="w-28 md:w-36 h-auto hvr-grow"
             />
             <h1 class="font-bold pt-3 px-2 md:px-5">Website Design & Development</h1>
-            <button type="button" class="mt-2 px-5 py-2 bg-primary">See Services</button>
+            <router-link to="/services" class="mt-2 px-5 py-2 bg-primary text-white" type="button"
+              >See Services</router-link
+            >
           </div>
           <div class="text-center">
             <img
@@ -24,7 +26,9 @@
               class="w-28 md:w-36 h-auto hvr-grow"
             />
             <h1 class="font-bold pt-3 md:px-5">Social Media Management & Ad Campaigns</h1>
-            <button type="button" class="mt-2 px-5 py-2 bg-primary">See Services</button>
+            <router-link to="/services" class="mt-2 px-5 py-2 bg-primary text-white" type="button"
+              >See Services</router-link
+            >
           </div>
           <div class="text-center mt-3">
             <img
@@ -33,7 +37,9 @@
               class="w-28 md:w-36 h-auto hvr-grow"
             />
             <h1 class="font-bold pt-3">Branding</h1>
-            <button type="button" class="mt-2 px-5 py-2 bg-primary">See Services</button>
+            <router-link to="/services" class="mt-2 px-5 py-2 bg-primary text-white" type="button"
+              >See Services</router-link
+            >
           </div>
           <div class="text-center mt-2">
             <img
@@ -42,7 +48,9 @@
               class="w-28 md:w-36 h-auto hvr-grow"
             />
             <h1 class="font-bold pt-3">Content Writing</h1>
-            <button type="button" class="mt-2 px-5 py-2 bg-primary">See Services</button>
+            <router-link to="/services" class="mt-2 px-5 py-2 bg-primary text-white" type="button"
+              >See Services</router-link
+            >
           </div>
         </div>
         <div class="grid grid-cols-2 md:grid-cols-3 gap-2 mt-4">
@@ -53,7 +61,9 @@
               class="w-28 md:w-48 h-auto hvr-grow"
             />
             <h1 class="font-bold pt-3 px-5">SEO & SEM</h1>
-            <button type="button" class="mt-2 px-2 md:px-5 py-2 bg-primary">See Services</button>
+            <router-link to="/services" class="mt-2 px-5 py-2 bg-primary text-white" type="button"
+              >See Services</router-link
+            >
           </div>
           <div class="text-center">
             <img
@@ -62,7 +72,9 @@
               class="w-28 md:w-48 h-auto hvr-grow"
             />
             <h1 class="font-bold pt-3 md:px-5">Influencer Marketing & Management</h1>
-            <button type="button" class="mt-2 px-2 md:px-5 py-2 bg-primary">See Services</button>
+            <router-link to="/services" class="mt-2 px-5 py-2 bg-primary text-white" type="button"
+              >See Services</router-link
+            >
           </div>
           <div class="text-center mt-3">
             <img
@@ -71,7 +83,9 @@
               class="w-28 md:w-48 h-auto hvr-grow"
             />
             <h1 class="font-bold pt-3">Mystery Shopping & Reviews</h1>
-            <button type="button" class="mt-2 px-2 md:px-5 py-2 bg-primary">See Services</button>
+            <router-link to="/services" class="mt-2 px-5 py-2 bg-primary text-white" type="button"
+              >See Services</router-link
+            >
           </div>
         </div>
       </div>

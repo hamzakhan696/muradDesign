@@ -1,5 +1,5 @@
 <template>
-  <div class="section-11 mt-10 mb-3">
+  <div class="section-11 mt-10 mb-3" id="contact">
     <div class="container mx-auto">
       <h1 class="text-center font-bold text-4xl">Lets Chat</h1>
       <h6 class="text-center text-primary font-bold">Hello, Murad?</h6>
