@@ -6,6 +6,29 @@ header {
   background-color: #000;
   clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
 }
+.featured-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.logo {
+  flex-basis: calc(50% - 1rem); /* Adjust width of each item */
+  margin-bottom: 1rem; /* Adjust spacing between items */
+}
+
+@media (min-width: 768px) {
+  .logo {
+    flex-basis: calc(33.33% - 1rem); /* Adjust width of each item for medium devices */
+  }
+}
+
+@media (min-width: 1024px) {
+  .logo {
+    flex-basis: calc(20% - 1rem); /* Adjust width of each item for large devices */
+  }
+}
+
 .bg-color {
   background-color: #ebc600;
 }
@@ -44,6 +67,30 @@ header {
   position: absolute;
   right: -10px;
   color: white;
+}
+footer .menu li a::after {
+  content: none;
+  position: absolute;
+  right: -10px;
+  color: white;
+}
+.custom-div {
+  position: relative;
+  border: 0.3px solid #f0f0f0;
+}
+
+.custom-div::after {
+  content: '';
+  position: absolute;
+  left: 31px;
+  right: 0;
+  height: 15px;
+  width: 15px;
+  bottom: 0;
+  top: -1px;
+  border: 9px solid transparent;
+  border-bottom-color: #ddd;
+  transform: rotate(180deg);
 }
 
 .menu li:last-child a::after {

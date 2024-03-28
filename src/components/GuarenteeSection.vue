@@ -2,12 +2,12 @@
   <div class="section bg-dark guarantee py-12">
     <div class="container mx-auto">
       <h1 class="text-primary font-bold text-center text-2xl py-6">What I Guarantee</h1>
-      <div class="guarantee-wrapper flex justify-between mx-32 text-center pb-12">
-        <div>
+      <div class="guarantee-wrapper md:flex justify-between md:mx-32 text-center pb-12">
+        <div class="mb-20 md:mb-0">
           <h1 class="text-white font-bold text-xl">Accurate Execution</h1>
           <p class="text-gray mt-3">Client tailored execution.</p>
         </div>
-        <div>
+        <div class="mb-20 md:mb-0">
           <h1 class="text-white font-bold text-xl">Commitment</h1>
           <p class="text-gray text-gray mt-3">
             Wholeheartedly committed to delivering <br />

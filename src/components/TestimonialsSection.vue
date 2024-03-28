@@ -2,7 +2,7 @@
   <div class="section-10 bg-primary pb-12">
     <div class="container mx-auto">
       <h1 class="text-center text-color2 font-bold pt-8">Testimonials</h1>
-      <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mx-20">
+      <div class="grid grid-cols-1 lg:grid-cols-2 gap-8 mx-8 md:mx-20">
         <div class="testimonial-box">
           <div
             class="relative mx-auto mt-8 w-100 p-10 bg-white text-gray-700 flex flex-col justify-between"
@@ -34,7 +34,7 @@
               </p>
             </div>
             <div>
-              <div class="mx-auto w-full border border-gray-300 my-8"></div>
+              <div class="mx-auto w-full my-8 custom-div"></div>
               <div class="flex items-center">
                 <div class="ml-4">
                   <div class="authar-name">Anna</div>
@@ -75,7 +75,7 @@
               </p>
             </div>
             <div>
-              <div class="mx-auto w-full border border-gray-300 my-8"></div>
+              <div class="mx-auto w-full my-8 custom-div"></div>
               <div class="flex items-center">
                 <div class="ml-4">
                   <div class="authar-name">Zakareyya</div>

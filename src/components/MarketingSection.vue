@@ -2,7 +2,7 @@
   <div class="section-5 pt-6 pb-12 bg-color">
     <div class="container mx-auto">
       <h1 class="text-color2 font-bold text-center pt-12">Marketing Consultancy</h1>
-      <div class="marketing-wrapper text-center mx-20">
+      <div class="marketing-wrapper text-center mx-8 md:mx-20">
         <p class="mt-2">
           Sometimes all you need is a helping hand to get your marketing back on track, and that’s
           where my marketing consultancy services can help you. Whether your business is a startup,
