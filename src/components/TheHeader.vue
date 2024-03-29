@@ -26,9 +26,6 @@
               <a href="#" @click="scrollToSection('services')">Services</a>
             </li>
             <li class="md:mt-3 text-white hover:text-blue-500 flex-shrink-0">
-              <router-link to="/blogs">Blog</router-link>
-            </li>
-            <li class="md:mt-3 text-white hover:text-blue-500 flex-shrink-0">
               <a href="#" @click="scrollToSection('portfolio')">Portfolio</a>
             </li>
             <li class="md:mt-3 text-white hover:text-blue-500 flex-shrink-0">
