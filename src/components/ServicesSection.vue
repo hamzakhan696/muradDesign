@@ -1,5 +1,5 @@
 <template>
-  <div class="section-6 mt-6">
+  <div class="section-6 mt-6" id="services">
     <div class="container mx-auto">
       <h1 class="text-center title text-4xl font-bold mb-4">Services</h1>
       <p class="text-center text-2xl">

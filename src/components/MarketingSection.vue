@@ -1,5 +1,5 @@
 <template>
-  <div class="section-5 pt-6 pb-12 bg-color">
+  <div class="section-5 pt-6 pb-12 bg-color" id="consultancy">
     <div class="container mx-auto">
       <h1 class="text-color2 font-bold text-center pt-12">Marketing Consultancy</h1>
       <div class="marketing-wrapper text-center mx-8 md:mx-20">

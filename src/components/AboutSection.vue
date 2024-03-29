@@ -1,5 +1,5 @@
 <template>
-  <div class="section-2 pt-12">
+  <div class="section-2 pt-12" id="about">
     <div class="container mx-auto">
       <h1 class="text-center">About Me</h1>
       <div class="about-wrapper">
